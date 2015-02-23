@@ -1,23 +1,27 @@
 body {
-  width: 960px auto center;
-  font-family: 'helvetica neue', arial, sans-serif;
+  width: 960px center auto;
+  font-family: 'helvetica', arial, sans-serif;
   font-weight: 300;
-  background-image: url(vineyardvinesbackground.jpg);
-  background-position: center; 
+  background-image: url(landscape.jpg);
+  background-position: top center; 
   margin: 100px;
 }
 #wrapper {
   background: url(linedpaper.png);
   width: 960px;
-  margin: 20px auto;
+  margin-top: 5px auto;
+  margin-bottom: 5px auto;
   padding:30px;
 }
-table {
+table { 
 	padding-bottom: 2px;
 	margin-bottom: 2px;
 }
 	#name{
 		font-size: 36px;
+		margin-right:10px;
+		border: solid 1px black;
+		width: 600px;
 
 	}
 	#education{
@@ -26,8 +30,20 @@ table {
 	}
 
 h4 {
-	border-bottom:solid 1px black;
+	border-bottom:solid 1px gray;
 }
-#contact {
-	border-bottom: solid 0px;
+	#contact {
+		border-bottom: solid 0px;
+	}
+img{
+
 }
+	#profilepic {
+		float: right;
+	}
+td {
+
+}
+	#edudetails {
+		align: center;
+	}
