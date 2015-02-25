@@ -1,5 +1,6 @@
 body {
   width: 960px center auto;
+  height:1440px;
   font-family: 'helvetica', arial, sans-serif;
   background-image: url(landscape.jpg);
   background-position: center center; 
@@ -44,10 +45,13 @@ img{
 }
 	#profilepic {
 		float: right;
-	}
+
 td {
 
 }
 	#edudetails {
 		align: center;
 	}
+li{
+	line-height: 10px;
+}
