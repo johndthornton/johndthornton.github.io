@@ -1,0 +1,6 @@
+body{
+	background-image: url(cchero.jpg)
+	background-position: center;
+
+}
+.navbar-brand: {color:red;}
