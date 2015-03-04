@@ -1,6 +1,12 @@
 body{
-	background-image: url(cchero.jpg)
-	background-position: center;
+	background-image: url(chicagotimelapse.mp4);
+
+}
+.videowrapper iframe {
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 25px;
+	height:0;
 
 }
 .bs-example-navbar-collapse-1 {

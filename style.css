@@ -35,6 +35,9 @@ table {
 		border: 0px;
 		font-size: 18;
 	}
+section{
+	padding-bottom:10px;
+}	
 
 h4 {
 	border-bottom:solid 1px gray;
@@ -42,6 +45,9 @@ h4 {
 }
 	#contact {
 		border-bottom: none;
+	}
+	h5{	
+		font-style:bold;
 	}
 img{
 
