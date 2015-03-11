@@ -1,21 +1,18 @@
-body{
-	background-image: url(chicagotimelapse.mp4);
-video{
+.navbar{
+	color:#FFFFFF
+	font-size:125%;
+}
+.image{
+	position:relative;
+	width:100%;
 
 }
-
-#bgvid{
-	position: ficed;
-	right:0;
-	bottom:0;
-	min-width: 100%;
-	min-height: 100%;
-	width: auto;
-	height:auto;
-	z-index:-100;
-	background:url(cchero.jpg);
-	background-size: ;
-}	
+h2{
+	position:absolute;
+	top:200px;
+	left:0;
+	width:100%;
+}
 
 }
 .videowrapper iframe {
