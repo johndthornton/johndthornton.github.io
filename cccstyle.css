@@ -6,12 +6,23 @@
 	padding-left: 45px;
 	padding-right: 45px;
 }
+.navbar-default{
+	background-color: transparent;
+
+}
 .image{
 	position:relative;
 	width:100%;
+}
+#npimg{
+	position:relative;
+	wideth:100%;
+}
+#footer{
+	bottom:0;	
 
 }
-h1{
+#headline{
 	position:absolute;
 	top:200px;
 	left:75px;
@@ -19,6 +30,10 @@ h1{
 	color: white;
 	width:100%;
 	font-size: 80px;
+}
+#contactheadline{
+	position: center;
+
 }
 
 .row{
