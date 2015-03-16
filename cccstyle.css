@@ -32,8 +32,11 @@
 	font-size: 80px;
 }
 #contactheadline{
-	position: center;
+	text-align center;
 
+}
+#contacttable{
+	margin: 100px;
 }
 
 .row{
